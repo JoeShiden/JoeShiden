@@ -13,7 +13,7 @@
 				children:[Object(h.jsx)("input",{type:"checkbox",onChange:function(){c("Metamask to Shiden Network"===n?"Shiden Network to Metamask":"Metamask to Shiden Network")}}),Object(h.jsx)("span",{className:"slider round"})]}),
 			
 			Object(h.jsx)("p",{children:"Input address"}),Object(h.jsx)("input",{type:"text",value:p,onChange:function(e){return O(e.target.value)}}),Object(h.jsx)("p",{children:p}),
-			Object(h.jsx)("p",{children:k}),Object(h.jsx)("a",{className:"App-link",href:"https://joeshiden.info",target:"same",rel:"noopener noreferrer",children:"Click here to return to the JoeShiden homepage."})]})})};
+			Object(h.jsx)("p",{children:k}),Object(h.jsx)("a",{className:"App-link",href:"https://joeshiden.info",target:"_self",rel:"noopener noreferrer",children:"Click here to return to the JoeShiden homepage."})]})})};
 		Boolean("localhost"===window.location.hostname||"[::1]"===window.location.hostname||window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));s.a.render(Object(h.jsx)(c.a.StrictMode,
 			{children:Object(h.jsx)(p,{})}),document.getElementById("root")),"serviceWorker"in navigator&&navigator.serviceWorker.ready.then((function(e){e.unregister()})).catch((function(e){console.error(e.message)}))}},[[65,1,2]]]);
 //# sourceMappingURL=main.614ea108.chunk.js.map
